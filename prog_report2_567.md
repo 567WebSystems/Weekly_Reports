@@ -10,11 +10,11 @@ Our team has met and talked about our progression and what needs to be done firs
 
 As we mentioned on our previous progress report, we have set up a Trello Board (as seen above), a Google Team Drive, a Slack Workspace, and a GitHub Organization repository. Notifications are enabled on our Slack channel (even past 10 PM) so that we can always have some form of communication.
 
-## What we're doing:
+## What we are doing:
 
 We are creating commits to this progress report as well as preparing for what needs to be done on the project.
 
-## What we're going to do:
+## What we are going to do:
 
 We're still looking for some calendar API (ideally Googles Calendar API) so that we may use to get and post data to and from.
 We are still delegating on what languages to use as well as what frameworks to use. We have decided on only using a backend framework while leaving the frontend all up to us.
