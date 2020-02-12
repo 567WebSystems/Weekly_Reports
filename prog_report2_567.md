@@ -4,7 +4,7 @@
 
 We have decided on our project topic of an appointment-scheduling calendar web system.
 
-Our team has met and talked about our progression and what needs to be done first on the project as well as more sketches of whats to come on our project.
+Our team has met and talked about our progression and what needs to be done first on the project as well as more sketches of what is to come on our project.
 
 ![trello-board](https://user-images.githubusercontent.com/31261926/74371366-9796cc00-4dd0-11ea-81f2-e3c907c1cc5f.png)
 
@@ -16,7 +16,7 @@ We are creating commits to this progress report as well as preparing for what ne
 
 ## What we are going to do:
 
-We're still looking for some calendar API (ideally Googles Calendar API) so that we may use to get and post data to and from.
-We are still delegating on what languages to use as well as what frameworks to use. We have decided on only using a backend framework while leaving the frontend all up to us.
-Also mentioned before, we are going to use HTML/CSS and JS for our front end and we are leaning towards NodeJS and Express for a light-weight unopinionated backend.
+We are going to use some calendar API (ideally Googles Calendar API) so that we may use to get and post data to and from.
+We have decided on only using a backend framework while leaving the frontend all up to us.
+Also mentioned before, we are leaning towards using HTML/CSS and JS for our frontend and NodeJS and Express for a light-weight unopinionated backend.
 We have also already received great feedback from the professor and will look to accommodate that feedback in our project.
