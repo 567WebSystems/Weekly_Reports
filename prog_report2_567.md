@@ -12,7 +12,7 @@ As we mentioned on our previous progress report, we have set up a Trello Board (
 
 ## What we are doing:
 
-Our development work started off on a test branch to try out the NodeJS backend framework. Specifically, how it integrates with the Google Calendar API. After setting up a NodeJS project and referencing the developer documentation (https://developers.google.com/calendar/quickstart/nodejs), the first connection to the API was established.
+Our development work started off with [nodejs-testing](https://github.com/567WebSystems/project2alpha/tree/nodejs-testing), our second branch, to try out the NodeJS backend framework. Specifically, how it integrates with the Google Calendar API. After setting up a NodeJS project and referencing the [developer documentation](https://developers.google.com/calendar/quickstart/nodejs), the first connection to the API was established.
 
 
 When there are no scheduled events, the API shows the following:
