@@ -12,6 +12,17 @@ As we mentioned on our previous progress report, we have set up a Trello Board (
 
 ## What we are doing:
 
+Our development work started off on a test branch to try out the NodeJS backend framework. Specifically, how it integrates with the Google Calendar API. After setting up a NodeJS project and referencing the developer documentation (https://developers.google.com/calendar/quickstart/nodejs), the first connection to the API was established.
+
+
+When there are no scheduled events, the API shows the following:
+
+![no_events](https://user-images.githubusercontent.com/21226482/74467558-e5f2ac00-4e5e-11ea-99e1-caa13b033c21.png)
+
+To test that it was not simply an absence of data (and to ensure successful transmission) when an event *is scheduled* it shows:
+
+![online_meeting](https://user-images.githubusercontent.com/21226482/74467715-2d793800-4e5f-11ea-8c37-653c0a009d59.png)
+
 We are creating commits to this progress report as well as preparing for what needs to be done on the project.
 
 ## What we are going to do:
