@@ -1,4 +1,4 @@
-# *Just Do IT!* - Progress Report Two
+# *Just Do IT!* - Progress Report Three
 
 ## What we have done so far:
 
