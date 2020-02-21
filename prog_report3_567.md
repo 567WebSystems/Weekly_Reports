@@ -44,5 +44,6 @@ So far the following was done: connect to API, read the user's calendar, and suc
 The next tasks we are going to do are:
 * Send the calendarData variable data to google calendar api to book an appointment.
 * Add validation to the appointment form.
-* setup the google authentication for the users.
+* Add user registration feature using google signUp.
+* setup the google authentication for the users to login.
 
