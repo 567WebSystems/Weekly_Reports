@@ -4,7 +4,10 @@
 
 We have setup our project via the Express framework. [INSERT LINK]
 
+We started development of a user application form in the Express framework.
+
 We are experimenting with Settings on Github. For example, adjusting branch protection rules to require at least two approvals before merging a branch.
+
 
 ## What we are doing:
 
@@ -19,6 +22,8 @@ So far the following was done: connect to API, read the user's calendar, and suc
 
 ## What we are going to do:
 
-After get data from html form, that pass data object to back end. Insert event into our calendar using google authentication.  
+Now that the data was passed to the backend, the next step is to find a way to insert the event into our calendar using google authentication.  
 
-We may need to create our own API, or find alternate solutions to achieve this.
+This has already been done using the Google API (as shown above).
+
+However, we may need to create our own API, or find alternate solutions to achieve this. Currently we have a specialized google account set up, which all teammates can access to perform testing.
