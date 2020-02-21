@@ -41,7 +41,7 @@ We are working on an html form to send data. We take consideration of the requir
 
 * API Progress:
 
-We following the Google calendar API: [gcalendar-create-events](https://developers.google.com/calendar/create-events)
+We are following the Google calendar API: [gcalendar-create-events](https://developers.google.com/calendar/create-events)
 
 So far the following was done: connect to API, read the user's calendar, and successfully added an event, as shown below:
 
