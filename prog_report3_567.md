@@ -20,8 +20,7 @@ Sending data from HTML Appointment Form will work in following way:
 
 1. User will enter the required information for the appointment.
 
-    ![filledForm](https://user-images.githubusercontent.com/54300222/75000737-1fc34400-5457-11ea-8241-4a1e35c34ad2.png)
-    <img src="https://user-images.githubusercontent.com/54300222/75000737-1fc34400-5457-11ea-8241-4a1e35c34ad2.png" width="600"   height="400">
+    <img src="https://user-images.githubusercontent.com/54300222/75000737-1fc34400-5457-11ea-8241-4a1e35c34ad2.png" width="600"   height="600">
 
 2. When user clicks on the submit button it will create a POST request to send the form data.
 
@@ -43,7 +42,7 @@ So far the following was done: connect to API, read the user's calendar, and suc
 ## What we are going to do:
 
 The next tasks we are going to do are:
-    * Send the calendarData variable data to google calendar api.
-    * Add validation to the appointment form.
-    * setup the google authentication for the users.
+* Send the calendarData variable data to google calendar api to book an appointment.
+* Add validation to the appointment form.
+* setup the google authentication for the users.
 
