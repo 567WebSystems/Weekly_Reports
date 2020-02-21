@@ -2,7 +2,6 @@
 
 ## What we have done so far:
 
-
 We started development of a user application form in the Express framework.
 
 We are experimenting with Settings on Github. For example, adjusting branch protection rules to require at least two approvals before merging a branch.
@@ -48,6 +47,15 @@ So far the following was done: connect to API, read the user's calendar, and suc
 ![add_event](https://user-images.githubusercontent.com/21226482/74993446-9e48c300-5410-11ea-8c8c-2d911bd4cc00.png)
 
 ## What we are going to do:
+
+Project Management (Trello) Update:
+* The "To Do" column is steadily growing...
+
+![Trello_board](https://user-images.githubusercontent.com/21226482/75007187-f811b300-5439-11ea-9d9b-f28ea542020d.png)
+
+...but then again, so is the "Done" column.
+
+"Doing" was wrapped up for this progress report, and will commence in the next one. Essentially, we completed the majority of what was planned so far.
 
 Now that the data was passed to the backend, the next step is to find a way to insert the event into our calendar using google authentication.  
 
