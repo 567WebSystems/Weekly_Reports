@@ -36,7 +36,15 @@ Here is the current OAuth functionality:
 
 ## What we are doing:
 
-What are we working on right now?
+We are reading and adding events onto our Google calendars:
+
+![add_event1](https://user-images.githubusercontent.com/21226482/75280720-9e134380-57d3-11ea-9e09-6db8be0b5803.png)
+
+This means the Create and Read functionalities are done, but we are working on other operations (e.g. update, delete, storage). These can be added to this post! 
+
+Here are the created events from Google Calendar:
+
+![add_event2](https://user-images.githubusercontent.com/21226482/75280973-05c98e80-57d4-11ea-985a-089e44f3b267.png)
 
 ## What we are going to do:
 
