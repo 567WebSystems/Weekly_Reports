@@ -55,6 +55,15 @@ Here are the created events from Google Calendar:
 
 ![add_event2](https://user-images.githubusercontent.com/21226482/75280973-05c98e80-57d4-11ea-985a-089e44f3b267.png)
 
+We are also working on the database implementation. Our db of choice is [MongoDB](https://www.mongodb.com). Because it is a Cloud-based data storage service, which can be used freely to create data clusters in various regions inside & local to the USA.
+
+![mongodb](https://user-images.githubusercontent.com/21226482/75474382-83b8a180-595c-11ea-8d7e-f76256684be1.png)
+
+We managed to successfully store event data objects inside the MongoDB Altas cluster:
+
+![datastore](https://user-images.githubusercontent.com/21226482/75474481-af3b8c00-595c-11ea-81ea-741a6cf0d79f.png)
+
+
 ## What we are going to do:
 
 What should our next tasks be?
