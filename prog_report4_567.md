@@ -2,6 +2,12 @@
 
 ## What we have done so far:
 
+We have launched our [First Release](https://github.com/567WebSystems/project2alpha/releases) on Github! This initial v1.0.0 release may not be very pretty or perfect, but at least it is working & operational:
+
+![v1.0.0](https://user-images.githubusercontent.com/21226482/75476196-cfb91580-595f-11ea-9c6e-5930d19ca767.png)
+
+This was mainly a test to try out using the release feature from Github. In the future, more documentation and detail will be provided.
+
 We have resolved and documented our first project issue:
 
 [Error contacting Google calendar service](https://github.com/567WebSystems/project2alpha/issues/8)
