@@ -6,7 +6,7 @@ We have resolved and documented our first project issue:
 
 [Error contacting Google calendar service](https://github.com/567WebSystems/project2alpha/issues/8)
 
-There was a problem reaching the Google Calendar API. Here are two example solutions which resolved the issue:
+There was a problem reaching the Google Calendar API. An invalid time format was being sent. Here are two example solutions which resolved the issue:
 
 Solution #1:
 
@@ -34,7 +34,7 @@ Here is the current OAuth functionality:
 5. Relogging (verification)
 ![si5](https://user-images.githubusercontent.com/21226482/75235540-020d1c00-5782-11ea-8e14-daba9bd9773f.png)
 
-We have also documented and are  currently resolving our second issue:
+We have also documented and are  currently resolving our [second issue](https://github.com/567WebSystems/project2alpha/issues/11):
 
 ![issue2](https://user-images.githubusercontent.com/21226482/75473739-5b7c7300-595b-11ea-931f-6f57cf0a77d1.png)
 
@@ -49,7 +49,7 @@ We are reading and adding events onto our Google calendars:
 
 ![add_event1](https://user-images.githubusercontent.com/21226482/75280720-9e134380-57d3-11ea-9e09-6db8be0b5803.png)
 
-This means the Create and Read functionalities are done, but we are working on other operations (e.g. update, delete, storage). These can be added to this post!
+This means the Create and Read functionalities are done, but we would like to work on other operations (e.g. update, delete, storage), the priority of which will be determined.
 
 Here are the created events from Google Calendar:
 
