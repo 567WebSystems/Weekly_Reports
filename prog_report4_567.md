@@ -34,13 +34,22 @@ Here is the current OAuth functionality:
 5. Relogging (verification)
 ![si5](https://user-images.githubusercontent.com/21226482/75235540-020d1c00-5782-11ea-8e14-daba9bd9773f.png)
 
+We have also documented and are  currently resolving our second issue:
+
+![issue2](https://user-images.githubusercontent.com/21226482/75473739-5b7c7300-595b-11ea-931f-6f57cf0a77d1.png)
+
+There appears to be an invalid time format in the post request to Google Calendar API. However, after modifying the post request contents, this issue appears to be resolved:
+
+![answer](https://user-images.githubusercontent.com/21226482/75473947-b2824800-595b-11ea-97a7-d85c4dc64589.png)
+
+
 ## What we are doing:
 
 We are reading and adding events onto our Google calendars:
 
 ![add_event1](https://user-images.githubusercontent.com/21226482/75280720-9e134380-57d3-11ea-9e09-6db8be0b5803.png)
 
-This means the Create and Read functionalities are done, but we are working on other operations (e.g. update, delete, storage). These can be added to this post! 
+This means the Create and Read functionalities are done, but we are working on other operations (e.g. update, delete, storage). These can be added to this post!
 
 Here are the created events from Google Calendar:
 
