@@ -72,6 +72,22 @@ We are also working on the database implementation. For this, our pick is [Mongo
 
 ![mongodb](https://user-images.githubusercontent.com/21226482/75474382-83b8a180-595c-11ea-8d7e-f76256684be1.png)
 
+We started with building a new cluster, choosing Azure as our cloud provider.
+
+![build_cluster](https://user-images.githubusercontent.com/31261926/75510677-a8a42780-59e3-11ea-9500-6f802839e607.png)
+
+Next step was to choose a region closest to us that was also free to use, thus we chose Virginia(eastus2).
+
+![choose_region](https://user-images.githubusercontent.com/31261926/75510796-059fdd80-59e4-11ea-93ae-13afad0339f3.png)
+
+We then left the rest of the settings default (free) such as Cluster Tier and Additional Settings.
+
+![free_settings](https://user-images.githubusercontent.com/31261926/75510998-a1c9e480-59e4-11ea-9bd4-6c8016741157.png)
+
+Lastly we named our cluster.
+
+![cluster_name](https://user-images.githubusercontent.com/31261926/75511089-f2d9d880-59e4-11ea-9413-2869d5c27ab5.png)
+
 We managed to successfully store event data objects inside the MongoDB Altas cluster:
 
 ![datastore](https://user-images.githubusercontent.com/21226482/75505069-e8e1b680-599f-11ea-838d-e63c4d3a2470.png)
