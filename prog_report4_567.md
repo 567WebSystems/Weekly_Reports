@@ -6,6 +6,15 @@
 
 ![Architecture](https://user-images.githubusercontent.com/54300222/75508767-2284e280-59dd-11ea-8e9a-3839253b39d5.PNG)
 
+* Appointment Form: The details like appointment summary, Description, Start Time, End Time, etc from the appointment form are sent to the google calendar api in the form of object which adds the event to the calendar. after adding event to the calendar the details are saved in the mongoDB database.
+
+* Appointment List: This will show the list of appointments which belongs to the user. The details will be fetched from the mongodb database.
+
+* User Registration: User will be register himself through the google signIn Oauth2 which will use google SignIn API and then the user details will be saved in the MongoDB Database.
+
+* User Login: User will login thorugh the Google SignIn api.
+___ 
+
 We have launched our [First Release](https://github.com/567WebSystems/project2alpha/releases) on Github! This initial v1.0.0 release may not be very pretty or perfect, but at least it is working & operational:
 
 ![v1.0.0](https://user-images.githubusercontent.com/21226482/75476196-cfb91580-595f-11ea-9c6e-5930d19ca767.png)
