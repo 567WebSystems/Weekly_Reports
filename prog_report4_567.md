@@ -88,7 +88,7 @@ Lastly we named our cluster.
 
 ![cluster_name](https://user-images.githubusercontent.com/31261926/75511089-f2d9d880-59e4-11ea-9413-2869d5c27ab5.png)
 
-We managed to successfully store event data objects inside the MongoDB Altas cluster:
+We managed to successfully store event data objects inside the MongoDB Atlas cluster:
 
 ![datastore](https://user-images.githubusercontent.com/21226482/75505069-e8e1b680-599f-11ea-838d-e63c4d3a2470.png)
 
@@ -96,4 +96,10 @@ To achieve this, we had to solve a [third issue](https://github.com/567WebSystem
 
 ## What we are going to do:
 
-What should our next tasks be?
+Our next tasks are listed on our Trello board below. The item in red is our most important artifact to complete followed by items in yellow which are next up for completion and finally green is our lower priority items to finish.
+
+![trello_board](https://user-images.githubusercontent.com/31261926/75511233-772c5b80-59e5-11ea-9424-776f54fe0fea.png)
+
+We will be looking into the Google's 'insert' function to find other functions that may update and delete the event data.
+
+![insert_method](https://user-images.githubusercontent.com/31261926/75511377-f883ee00-59e5-11ea-9a87-e4f5fd49ba1c.png)
