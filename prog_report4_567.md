@@ -6,7 +6,7 @@ We have launched our [First Release](https://github.com/567WebSystems/project2al
 
 ![v1.0.0](https://user-images.githubusercontent.com/21226482/75476196-cfb91580-595f-11ea-9c6e-5930d19ca767.png)
 
-This was mainly a test to try out using the release feature from Github. In the future, more documentation and detail will be provided.
+This was mainly a test to try out using the release feature from Github. In the future, more documentation and detail will be provided (including step-by-step deployment instructions).
 
 We have resolved and documented our first project issue:
 
@@ -20,10 +20,10 @@ This first solution worked by combining the the first four (4, or half) the user
 ![solution1](https://user-images.githubusercontent.com/21226482/75234768-c887e100-5780-11ea-92c4-5f3bef68fb56.png)
 
 **Solution #2:**
-This second solution built on top of the first by using the combined approach, but integrating about 90% of the user's input (the remainder being from Google's documentation above). The significance is maintaining the operability of the application while utilizing more of the user's data.
+This second solution built on top of the first by using the combined approach, but integrating about 90% of the user's input (the remainder being from Google's documentation above). The significance is maintaining the operability of the application while utilizing more of the user's data. These solutions were discussed and implemented by the whole team!
 ![solution2](https://user-images.githubusercontent.com/21226482/75234863-f1a87180-5780-11ea-902f-d2eb8d8e84f0.png)
 
-We have implemented open authentication with help from: [Google OAuth](https://developers.google.com/identity/sign-in/web/sign-in)
+We also decided to add open authentication with help from: [Google OAuth](https://developers.google.com/identity/sign-in/web/sign-in). This uses the modern OAuth2 protocol for authentication.
 
 Here is the current OAuth functionality:
 
@@ -39,10 +39,10 @@ Here is the current OAuth functionality:
 **4. Signing out**
 ![si4](https://user-images.githubusercontent.com/21226482/75235500-f4579680-5781-11ea-8d7f-156eabd628d2.png)
 
-**5. Relogging (to verify)**
+**5. Re-logging (to verify)**
 ![si5](https://user-images.githubusercontent.com/21226482/75235540-020d1c00-5782-11ea-8e14-daba9bd9773f.png)
 
-We have also documented and are  currently resolving our [second issue](https://github.com/567WebSystems/project2alpha/issues/11):
+We have also documented and are currently resolving our [second issue](https://github.com/567WebSystems/project2alpha/issues/11):
 
 ![issue2](https://user-images.githubusercontent.com/21226482/75473739-5b7c7300-595b-11ea-931f-6f57cf0a77d1.png)
 
@@ -57,19 +57,19 @@ We are reading and adding events onto our Google calendars:
 
 ![add_event1](https://user-images.githubusercontent.com/21226482/75280720-9e134380-57d3-11ea-9e09-6db8be0b5803.png)
 
-This means the Create and Read functionalities are done, but we would like to work on other operations (e.g. update, delete, storage), the priority of which will be determined.
+This means the Create and Read functionalities are done, but we would like to work on other operations (e.g. update, delete, storage, and more), the priority of which will be determined with the team.
 
-Here are the created events from Google Calendar:
+Here are the created test events from Google Calendar:
 
 ![add_event2](https://user-images.githubusercontent.com/21226482/75280973-05c98e80-57d4-11ea-985a-089e44f3b267.png)
 
-We are also working on the database implementation. Our db of choice is [MongoDB](https://www.mongodb.com). Because it is a Cloud-based data storage service, which can be used freely to create data clusters in various regions inside & local to the USA.
+We are also working on the database implementation. For this, our pick is [MongoDB](https://www.mongodb.com). Because it is a cloud-based storage service, which can be used freely to create data clusters in various US and other local territories (e.g. Canada).
 
 ![mongodb](https://user-images.githubusercontent.com/21226482/75474382-83b8a180-595c-11ea-8d7e-f76256684be1.png)
 
 We managed to successfully store event data objects inside the MongoDB Altas cluster:
 
-![datastore](https://user-images.githubusercontent.com/21226482/75474481-af3b8c00-595c-11ea-81ea-741a6cf0d79f.png)
+![datastore](https://user-images.githubusercontent.com/21226482/75505069-e8e1b680-599f-11ea-838d-e63c4d3a2470.png)
 
 
 ## What we are going to do:
