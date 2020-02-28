@@ -28,18 +28,23 @@ We also decided to add open authentication with help from: [Google OAuth](https:
 Here is the current OAuth functionality:
 
 **1. Signing in**
+This is our Google Sign in and Sign out button.
 ![si1](https://user-images.githubusercontent.com/21226482/75235409-cbcf9c80-5781-11ea-814e-d6860a98af54.png)
 
 **2. Choosing an account**
+After pressing the Sign in button, the user will be prompted with a Google Sign in page where they may choose an existing Google account or sign in to a new Google account.
 ![si2](https://user-images.githubusercontent.com/21226482/75235433-d8ec8b80-5781-11ea-9126-e67ecbb718a6.png)
 
 **3. Loading homepage**
+This is our current index homepage where the Google Sign in button is. Once signed in, the Google account's information will be logged to console.
 ![si3](https://user-images.githubusercontent.com/21226482/75235460-e73aa780-5781-11ea-854a-3c662d9d6025.png)
 
 **4. Signing out**
+Once the sign out button is pressed, the Google sign in button will go from "Signed in" back to "Sign in", signifying that the user has logged out.
 ![si4](https://user-images.githubusercontent.com/21226482/75235500-f4579680-5781-11ea-8d7f-156eabd628d2.png)
 
 **5. Re-logging (to verify)**
+This is just verification that the user can sign in again after signing out.
 ![si5](https://user-images.githubusercontent.com/21226482/75235540-020d1c00-5782-11ea-8e14-daba9bd9773f.png)
 
 We have also documented and are currently resolving our [second issue](https://github.com/567WebSystems/project2alpha/issues/11):
