@@ -71,6 +71,7 @@ We managed to successfully store event data objects inside the MongoDB Altas clu
 
 ![datastore](https://user-images.githubusercontent.com/21226482/75505069-e8e1b680-599f-11ea-838d-e63c4d3a2470.png)
 
+To achieve this, we had to solve a [third issue](https://github.com/567WebSystems/project2alpha/issues/13) with the team.
 
 ## What we are going to do:
 
