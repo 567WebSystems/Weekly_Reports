@@ -2,6 +2,10 @@
 
 ## What we have done so far:
 
+### Architecture for Appointment Web System
+
+![Architecture](https://user-images.githubusercontent.com/54300222/75508767-2284e280-59dd-11ea-8e9a-3839253b39d5.PNG)
+
 We have launched our [First Release](https://github.com/567WebSystems/project2alpha/releases) on Github! This initial v1.0.0 release may not be very pretty or perfect, but at least it is working & operational:
 
 ![v1.0.0](https://user-images.githubusercontent.com/21226482/75476196-cfb91580-595f-11ea-9c6e-5930d19ca767.png)
