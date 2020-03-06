@@ -4,7 +4,7 @@
 
 ### Architecture for Appointment Web System
 
-![Architecture](https://user-images.githubusercontent.com/54300222/75508767-2284e280-59dd-11ea-8e9a-3839253b39d5.PNG)
+![Architecture](https://user-images.githubusercontent.com/54300222/76047918-21fbc700-5f5c-11ea-98cf-0057ea78ea65.PNG)
 
 Our Architecture remains the same other than the fact that we will be sending data to the MongoDB first and then to our calendar.
 ___
@@ -17,6 +17,9 @@ We are currently still on v1.0.0 Alpha Release with an upcoming minor release to
 
 ## What we are doing:
 
+We have succesfully implemented google SignIn using passportJS. To implement the passportJS we have reffered the following diagram
+
+<img width="1355" alt="Screen Shot 2020-03-01 at 12 30 06 PM" src="https://user-images.githubusercontent.com/54300222/76048056-8cad0280-5f5c-11ea-853b-54b4f2524a4e.png">
 
 
 ## What we are going to do:
