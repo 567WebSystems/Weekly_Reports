@@ -25,7 +25,7 @@ Currently on our Trello board, we are primarily working on the List Events metho
 
 ![doing](https://user-images.githubusercontent.com/31261926/76051416-93d70f00-5f62-11ea-998a-cb072c5117f5.png)
 
-We have succesfully implemented google SignIn using passportJS. To implement the passportJS we have reffered the following diagram
+We have succesfully implemented google SignIn using passportJS. To implement the passportJS we have referred the following diagram
 
 <img width="1355" alt="Screen Shot 2020-03-01 at 12 30 06 PM" src="https://user-images.githubusercontent.com/54300222/76048056-8cad0280-5f5c-11ea-853b-54b4f2524a4e.png">
 
