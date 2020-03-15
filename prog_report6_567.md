@@ -28,6 +28,12 @@ We have also written the corresponding deployment instructions:
 
    <img width="1355" alt="Screen Shot 2020-03-01 at 12 30 06 PM" src="https://user-images.githubusercontent.com/54300222/76048056-8cad0280-5f5c-11ea-853b-54b4f2524a4e.png">
 
+    Initially we implemented the google SignIn and then we moved to google Authentication using passportJS. The google signIn we implemented first was only used to get token but it was not able to maintain the session.
+
+    PassportJs helps us to manage the google signIn with less effort and more clear to understand. With the passport we are maintianing the user session using the cookies so that user can use that cookie to perform the authorised tasks related to google authentication.
+
+    The cookies created by the passport allows the user stay signedIn for 24 hours from the time of cookie created because the cookie has the expiration of 24 hours.
+    Refer the above diagram to get actual working of PassportJs for google SignIn
 
 * Google Login using passport
     <img width="1440" alt="google auth" src="https://user-images.githubusercontent.com/54300222/76694769-0cc71c80-666f-11ea-830d-389996c13d78.png">
