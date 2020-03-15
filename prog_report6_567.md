@@ -20,7 +20,7 @@ ___
 
 #### Passport Architecture and Implementation
 
-    <img width="1355" alt="Screen Shot 2020-03-01 at 12 30 06 PM" src="https://user-images.githubusercontent.com/54300222/76048056-8cad0280-5f5c-11ea-853b-54b4f2524a4e.png">
+   <img width="1355" alt="Screen Shot 2020-03-01 at 12 30 06 PM" src="https://user-images.githubusercontent.com/54300222/76048056-8cad0280-5f5c-11ea-853b-54b4f2524a4e.png">
 
 
 * Google Login using passport
