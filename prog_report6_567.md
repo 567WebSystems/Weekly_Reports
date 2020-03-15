@@ -8,6 +8,10 @@
 
 * This is our final release for the alpha phase. The primary features to highlight include: the adding, reading, listing, and deleting of calendar events. Both locally and from the user's Google Calendar.
 
+We have also written the corresponding deployment instructions:
+
+![deployment](https://user-images.githubusercontent.com/21226482/76695115-6ae10900-6649-11ea-8fb3-3b6119ccd32e.png)
+
 ### Passport Authentication for Appointment Web System
 
 * place passport information here
