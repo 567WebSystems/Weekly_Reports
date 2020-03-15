@@ -4,7 +4,9 @@
 
 ### Final Alpha Release v1.1.0
 
-* place final alpha release information here
+![v1.1](https://user-images.githubusercontent.com/21226482/76695065-4f293300-6648-11ea-8c6e-c80e4a55df0a.png)
+
+* This is our final release for the alpha phase. The primary features to highlight include: the adding, reading, listing, and deleting of calendar events. Both locally and from the user's Google Calendar.
 
 ### Passport Authentication for Appointment Web System
 
