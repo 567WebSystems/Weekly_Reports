@@ -18,18 +18,18 @@ Created the homepage link, to return to the menu. This works throughout our app,
 
 ![homepage](https://user-images.githubusercontent.com/21226482/77839607-f081b000-7143-11ea-8bcd-d8aebb031a62.png)
 
-Commenced operations on updating events. The user can trigger this via the Edit options.
+Commenced operations on updating events. Here, the user can choose to change any of the above data-fields. They can do so via the Edit options:
 
 ![update_option](https://user-images.githubusercontent.com/21226482/77839651-33438800-7144-11ea-905b-0362e66362e2.png)
 
 After select an event to edit, the user will go to the update form.
 ![update_form](https://user-images.githubusercontent.com/21226482/77839689-7b62aa80-7144-11ea-84b2-65c8635fb351.png)
 
-This is the current progress from the front end. However, on the back end, the update went through.
+This is the current progress from the front end. After filling out the form, the update went through:
 
 ![updated](https://user-images.githubusercontent.com/21226482/77839727-deecd800-7144-11ea-8098-13a18311fc66.png)
 
-The next step will be to display this on the front end.
+The next step will be to display this on the front end. This is still a work in progress.
 ___
 
 ## What we are doing:
