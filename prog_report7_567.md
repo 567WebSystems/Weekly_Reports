@@ -8,6 +8,16 @@ We have migrated all our web system files down to our root folder for easier acc
 
 ![appinroot](https://user-images.githubusercontent.com/31261926/77832275-bf49b580-712c-11ea-83ad-d0dda9f4d83b.png)
 
+### Development Progress
+
+Created the menu page to improve the usability of our app:
+
+![menu](https://user-images.githubusercontent.com/21226482/77839528-38ec9e00-7143-11ea-9423-f7dec1a4f2df.png)
+
+Created the homepage link, to return to the menu. This works throughout our app, except on the menu page.
+
+![homepage](https://user-images.githubusercontent.com/21226482/77839607-f081b000-7143-11ea-8bcd-d8aebb031a62.png)
+
 ___
 
 ## What we are doing:
