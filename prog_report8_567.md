@@ -41,6 +41,16 @@ We have successfully finished the updateEvent() method.
 4) After clicking the Edit button, their event information is now *pre-populated*, as outlined:
 
 ![pre-populated](https://user-images.githubusercontent.com/21226482/78465039-57f4ae00-76b6-11ea-96d2-2ad4d3a03734.png)
+
+5) The user fills in the updated information, accordingly:
+
+![updateForm](https://user-images.githubusercontent.com/21226482/78465066-bae64500-76b6-11ea-8398-f37e0b2a9dfa.png)
+
+6) After refreshing the page, they will be able to see their update on the front-end:
+
+![apptlist2](https://user-images.githubusercontent.com/21226482/78465086-f123c480-76b6-11ea-80eb-7c64be3a0ec7.png)
+
+
 ___
 
 ## What we are doing:
