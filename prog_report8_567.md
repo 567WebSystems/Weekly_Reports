@@ -50,6 +50,7 @@ We have successfully finished the updateEvent() method.
 
 ![apptlist2](https://user-images.githubusercontent.com/21226482/78465086-f123c480-76b6-11ea-80eb-7c64be3a0ec7.png)
 
+The next step
 
 ___
 
@@ -80,6 +81,10 @@ This is only temporary because we plan on removing the success page in future im
 ___
 
 ## What we are going to do:
+
+Google calendar is still showing the old event information. The next step of the update process is to synchronize the new update with the Google Calendar API:
+
+![gapi](https://user-images.githubusercontent.com/21226482/78465152-9048bc00-76b7-11ea-9d93-58d8c155a4b5.png)
 
 This is our current 'To Do' Trello board.
 
