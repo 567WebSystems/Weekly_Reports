@@ -24,6 +24,23 @@ We have successfully finished the updateEvent() method.
 
 ![updateroute](https://user-images.githubusercontent.com/31261926/78461116-e157b080-76b5-11ea-9ba7-95e1e66f462b.png)
 
+### Update Process Demo
+
+1) Start by creating a new event via the Appointment Form. Also note that the user has three upcoming events, listed below:
+
+![apptlist](https://user-images.githubusercontent.com/21226482/78464958-8920ae80-76b5-11ea-8235-f5ae451ed9ce.png)
+
+2) Next, the user fills in the details of their brand new event
+
+![apptform](https://user-images.githubusercontent.com/21226482/78464972-c9802c80-76b5-11ea-95f9-09a742ec4a51.png)
+
+3) When viewing appointments, their new event shows up below:
+
+![newEvent](https://user-images.githubusercontent.com/21226482/78465004-0f3cf500-76b6-11ea-8946-2767144cabe0.png)
+
+4) After clicking the Edit button, their event information is now *pre-populated*, as outlined:
+
+![pre-populated](https://user-images.githubusercontent.com/21226482/78465039-57f4ae00-76b6-11ea-96d2-2ad4d3a03734.png)
 ___
 
 ## What we are doing:
