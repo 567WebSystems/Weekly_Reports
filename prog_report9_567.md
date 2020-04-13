@@ -15,13 +15,15 @@ Most of the tasks form the last week To-Do have been completed and new to do tas
 
 3. we have have removed most of the deprecated 'on*.' by adding an EventListener in our 'scripts.js'.
 
-4. We have solved the issue of  refreshing the page to get the new added events.
-    ![issue]<img width="983" alt="Screen Shot 2020-04-12 at 12 10 29 AM" src="https://user-images.githubusercontent.com/54300222/79061129-880df500-7c52-11ea-8d86-98682e7327c6.png">
+    ![eventlistener](https://user-images.githubusercontent.com/31261926/79084102-a5e16580-7cf7-11ea-8dd0-0e69dc2aec53.png)
 
-5. Added the success section to show the successfull booking of appointment.
-    ![success]
-<img width="1440" alt="Screen Shot 2020-04-12 at 12 17 37 AM" src="https://user-images.githubusercontent.com/54300222/79061186-1f734800-7c53-11ea-9222-3bdf2b2d7dd4.png">
+4. We have solved the issue of refreshing the page to get the new added events.
 
+    <img width="983" alt="Screen Shot 2020-04-12 at 12 10 29 AM" src="https://user-images.githubusercontent.com/54300222/79061129-880df500-7c52-11ea-8d86-98682e7327c6.png">
+
+5. Added the success section to show the successful booking of appointment.
+
+    <img width="1440" alt="Screen Shot 2020-04-12 at 12 17 37 AM" src="https://user-images.githubusercontent.com/54300222/79061186-1f734800-7c53-11ea-9222-3bdf2b2d7dd4.png">
 
 ___
 
@@ -31,7 +33,9 @@ We are currently working to complete these goals, as posted on the team Trello b
 
 ![doing](https://user-images.githubusercontent.com/21226482/79060461-d0c1b000-7c4a-11ea-8e75-024b88da9c63.png)
 
-Adding User to firend list will allow the user to book the appointment with another user. This feature is is on hold because from the last coference meeting with the professor we came to conclusion of making the current features more robust and clear.
+Adding User to a friends list will allow the user to book an appointment with another user.
+This feature is currently on hold due to our recent meeting with the professor.
+As a group, we came to a consensus of making the our current features more robust and clear.
 
 ___
 
@@ -40,3 +44,5 @@ ___
 Our next steps are also posted on the team Trello board:
 
 ![to-do](https://user-images.githubusercontent.com/21226482/79060438-7fb1bc00-7c4a-11ea-8e76-22ebbace566a.png)
+
+Although there seems to be a lot of to-do's in our list, most of the to-do's are to add more features and as we mentioned previously, we as a team are going back to our scoped down functions of our web system and really iron those functions out before adding new features.
