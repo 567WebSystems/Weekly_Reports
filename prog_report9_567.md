@@ -3,7 +3,7 @@
 ## What we have done so far:
 
 ### Beta Phase
-Most of the tasks form the last week To-Do have been completed and new to do task are added. Here is the list of things we have completed doing:
+Most of the tasks from last weeks' To-Do have been completed and new To-Do tasks are added. Here is the list of things we have completed doing:
 
 1. At long last, we finally tested our first function! Holy H E double hockey sticks — we should have had this a long time ago. But since Professor mentioned in our meeting that testing was the number one issue (across teams) we figured we'd give it a shot:
 
@@ -13,7 +13,7 @@ Most of the tasks form the last week To-Do have been completed and new to do tas
 
     ![formdata](https://user-images.githubusercontent.com/21226482/79060339-825fe180-7c49-11ea-823c-10fa87736500.png)
 
-3. we have have removed most of the deprecated 'on*.' by adding an EventListener in our 'scripts.js'.
+3. We have removed most of the deprecated 'on*.' by adding an EventListener in our 'scripts.js'.
 
     ![eventlistener](https://user-images.githubusercontent.com/31261926/79084102-a5e16580-7cf7-11ea-8dd0-0e69dc2aec53.png)
 
@@ -45,4 +45,4 @@ Our next steps are also posted on the team Trello board:
 
 ![to-do](https://user-images.githubusercontent.com/21226482/79060438-7fb1bc00-7c4a-11ea-8e76-22ebbace566a.png)
 
-Although there seems to be a lot of to-do's in our list, most of the to-do's are to add more features and as we mentioned previously, we as a team are going back to our scoped down functions of our web system and really iron those functions out before adding new features.
+Although there seems to be a lot of To-Do's in our list, most of the To-Do's are to add more features and as we mentioned previously, we as a team are going back to our scoped down functions of our web system and really iron those functions out before adding new features.
