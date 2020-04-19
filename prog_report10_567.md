@@ -4,16 +4,15 @@
 
 1) We used ESLint to clean all of our project files:
 
-![eslint_setup](https://user-images.githubusercontent.com/21226482/79670733-c5aada80-818a-11ea-8dc0-84269e10c893.png)
+<img src="https://user-images.githubusercontent.com/21226482/79670733-c5aada80-818a-11ea-8dc0-84269e10c893.png" alt="eslint_setup" width="659" height="480" />
 
 That was the setup, now here's our config file and final results:
 
-<img src="https://user-images.githubusercontent.com/21226482/79670763-fc80f080-818a-11ea-9839-3013be2c77f2.png" alt="eslint_config" width="450" height="500" />
+<img src="https://user-images.githubusercontent.com/21226482/79670763-fc80f080-818a-11ea-9839-3013be2c77f2.png" alt="eslint_config" width="666" height="749" />
 
 2) In our EJS views, we cut down the length of each file, by using a uniform layout. This applies throughout the entire project:
 
-<img src="https://user-images.githubusercontent.com/21226482/79670899-d14ad100-818b-11ea-80a5-b8fc78b1437a.png" alt="layout_template" width="450" height="225" />
-
+<img src="https://user-images.githubusercontent.com/21226482/79670899-d14ad100-818b-11ea-80a5-b8fc78b1437a.png" alt="layout_template" width="1721" height="332" />
 
 
 3) Updates are now being sent to the Google Calendar API. The base functionality (CRUD) of the app is essentially complete:
