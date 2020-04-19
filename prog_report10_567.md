@@ -16,12 +16,14 @@ That was the setup, now here's our config file and final results:
 
 3) Updates are now being sent to the Google Calendar API. The base functionality (CRUD) of the app is essentially complete:
 
-BEFORE:
+<div align = center >BEFORE:</div><br>
+
 ![event1](https://user-images.githubusercontent.com/21226482/79671033-c8a6ca80-818c-11ea-91cb-c35f07a146c4.png)
 
 ![event1-calendar](https://user-images.githubusercontent.com/21226482/79671044-eaa04d00-818c-11ea-84fc-34539d1ef734.png)
 
-AFTER:
+<div align = center >AFTER:</div><br>  
+
 ![update1](https://user-images.githubusercontent.com/21226482/79671040-db210400-818c-11ea-89cb-ee743da63c8a.png)
 
 ![update1-calendar](https://user-images.githubusercontent.com/21226482/79671053-fee44a00-818c-11ea-85e2-a1a9b1600387.png)
