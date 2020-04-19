@@ -28,6 +28,12 @@ AFTER:
 
 This is a significant milestone for the project — now all our base functionality (CRUD) is working with any Google account that signs in.
 
+This was the final issue preventing successful updates — missing end-time information **even though** the formatting was correct! Part of the problem was Google Calendar being picky enough that to also require the user's timezone info:
+
+![update-issue](https://user-images.githubusercontent.com/21226482/79679083-610e7080-81c8-11ea-8db7-d59c21726d7c.png)
+
+Thankfully, this and several other problems were resolved over the past few weeks, though we still have some issues we are working out using [Github Issues](https://github.com/567WebSystems/project-3-beta/issues).
+
 ___
 
 ## What we're doing:
