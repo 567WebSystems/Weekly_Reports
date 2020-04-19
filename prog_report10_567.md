@@ -1,4 +1,4 @@
-# *Just Do IT!* - Progress Report Ten - (Week 14 - 04/16)
+Â# *Just Do IT!* - Progress Report Ten - (Week 14 - 04/16)
 
 ## What we've done so far:
 
@@ -26,13 +26,20 @@ AFTER:
 
 ![update1-calendar](https://user-images.githubusercontent.com/21226482/79671053-fee44a00-818c-11ea-85e2-a1a9b1600387.png)
 
-This is a significant milestone for the project — now all our base functionality (CRUD) is working with any Google account that signs in. 
+This is a significant milestone for the project — now all our base functionality (CRUD) is working with any Google account that signs in.
 
 ___
 
 ## What we're doing:
 
+Since we have completed the majority of our feature-goals, right now our top priority is to meet all the designated requirements for the project. Here's our current Trello "Doing" column:
+
+![doing](https://user-images.githubusercontent.com/21226482/79679009-759e3900-81c7-11ea-846d-0e53f94db64f.png)
 
 ___
 
 ## What we're going to do:
+
+Even though there is a lot of us are working on right now, there is are still plenty more to dos left to conclude the project, over the upcoming weeks:
+
+![to-do](https://user-images.githubusercontent.com/21226482/79679046-f52c0800-81c7-11ea-97fb-63866a847bc8.png)
