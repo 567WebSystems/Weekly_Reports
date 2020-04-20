@@ -45,6 +45,20 @@ Since we have completed the majority of our feature-goals, right now our top pri
 
 <img src="https://user-images.githubusercontent.com/21226482/79679009-759e3900-81c7-11ea-846d-0e53f94db64f.png" alt="doing" width="333" height="585" />
 
+We have created a 'test' directory where all our separate test functions will be.
+
+![tests](https://user-images.githubusercontent.com/31261926/79703548-1ea16e00-8272-11ea-9ae0-477c7e79f610.png)
+
+We are still continuing to test all our functionality with the use of Mocha.
+
+![mocha](https://user-images.githubusercontent.com/31261926/79703578-44c70e00-8272-11ea-8070-ad8fb78200c3.png)
+
+![mochatest](https://user-images.githubusercontent.com/31261926/79703668-c159ec80-8272-11ea-8800-171ab66933e4.png)
+
+This is how our tests generally look for all our functions.
+
+![updatetest](https://user-images.githubusercontent.com/31261926/79703695-fd8d4d00-8272-11ea-9c28-6faa1e236f5d.png)
+
 ___
 
 ## What we're going to do:
