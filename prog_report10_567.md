@@ -59,6 +59,11 @@ This is how our tests generally look for all our functions.
 
 ![updatetest](https://user-images.githubusercontent.com/31261926/79703695-fd8d4d00-8272-11ea-9c28-6faa1e236f5d.png)
 
+
+### Documentation using jsdocs
+we have started documenting our application using jsdocs.
+
+<img width="1181" alt="Screen Shot 2020-04-19 at 10 08 14 PM" src="https://user-images.githubusercontent.com/54300222/79710343-59170500-828a-11ea-8c00-921f3406c919.png">
 ___
 
 ## What we're going to do:
