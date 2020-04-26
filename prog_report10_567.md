@@ -64,6 +64,15 @@ This is how our tests generally look for all our functions.
 we have started documenting our application using jsdocs.
 
 <img width="1181" alt="Screen Shot 2020-04-19 at 10 08 14 PM" src="https://user-images.githubusercontent.com/54300222/79710343-59170500-828a-11ea-8c00-921f3406c919.png">
+
+### Responsive Nav bar with pure css
+
+We have made our nav bar responsive so that the application is opreational on each device.
+
+<img width="954" alt="Screen Shot 2020-04-26 at 2 19 15 PM" src="https://user-images.githubusercontent.com/54300222/80317373-088f3280-87c9-11ea-9abe-095f4160bca9.png">
+<img width="873" alt="Screen Shot 2020-04-26 at 2 20 22 PM" src="https://user-images.githubusercontent.com/54300222/80317378-12b13100-87c9-11ea-9b69-82f410a24eae.png">
+
+
 ___
 
 ## What we're going to do:
