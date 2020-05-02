@@ -17,9 +17,24 @@ By staying on the same form when performing updates, the new update is instantly
 <br>
 <br>
 <img width="891" alt="updates" src="https://user-images.githubusercontent.com/21226482/80893292-a9cd2b80-8c96-11ea-902d-94e22b1e965e.png">
+<br>
+<br>
+This same concept applies to the delete functionality:
 
+<img width="891" alt="confirm_delete" src="https://user-images.githubusercontent.com/21226482/80893372-69ba7880-8c97-11ea-8384-37c9bbdcd9fb.png">
+<br>
+<br>
+Currently the app is redirecting back to the menu to resolve deleted events:
 
-
+<br>
+<br>
+<img width="891" alt="menu_redirect" src="https://user-images.githubusercontent.com/21226482/80893381-76d76780-8c97-11ea-8841-a2cc8692526f.png">
+<br>
+<br>
+This is perhaps not the most elegant solution, but neither is refreshing the page every time.
+<br>
+<br>
+<img width="891" alt="deleted_event" src="https://user-images.githubusercontent.com/21226482/80893398-86ef4700-8c97-11ea-807a-5ddc2cf28225.png">
 
 ___
 
