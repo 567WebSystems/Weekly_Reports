@@ -60,3 +60,5 @@ We've finally added a license to our repository, to provide rights to all for op
 ___
 
 ## What we're going to do:
+
+At this point, we have readied up our app; the pre-deployment phase is complete. The next tasks include: deploying the application to a public server, applying a process monitoring software, and establishing a system for CI and CD. These will be our next steps for the conclusion of this extensive semester project. Thank you.
