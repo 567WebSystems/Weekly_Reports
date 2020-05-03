@@ -48,4 +48,4 @@ ___
 
 ## **What we're going to do:**
 
-At this point, we have readied up our app; the pre-deployment phase is complete. The next tasks include: deploying the application to a public server, applying a process monitoring software, and establishing a system for CI and CD. These will be our next steps for the conclusion of this extensive semester project. Thank you.
+At this point, we have readied up our app; the pre-deployment phase is complete. The next tasks include: deploying the application to a public server, applying a process monitoring software, and establishing a system for CI and CD. These will be our next steps for the conclusion of this extensive semester project. But there is also another issue we need to sort out, regarding the [required files](https://github.com/567WebSystems/project-4-release/issues/1) (to allow others to run the application). Thank you.
