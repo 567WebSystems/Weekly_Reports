@@ -35,11 +35,21 @@ This is perhaps not the most elegant solution, but neither is refreshing the pag
 <br>
 <br>
 <img width="891" alt="deleted_event" src="https://user-images.githubusercontent.com/21226482/80893398-86ef4700-8c97-11ea-807a-5ddc2cf28225.png">
+<br>
+<br>
+We've made sure all our functions are passing tests:
+<br>
+<br>
+<img width="515" alt="all_tests_passing" src="https://user-images.githubusercontent.com/21226482/80896935-46082a00-8cb9-11ea-9bb6-9b72d61afcbe.png">
+<br>
+<br>
+All these things should help better prepare us for final deployment.
+
+
 
 ___
 
 ## What we're doing:
-
 
 
 ___
