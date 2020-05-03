@@ -30,7 +30,7 @@ This is perhaps not the most elegant solution, but neither is refreshing the pag
 <br><br>
 We've made sure all our functions are passing in our test-suite:
 <br><br>
-<img width="515" alt="all_tests_passing" src="https://user-images.githubusercontent.com/21226482/80896935-46082a00-8cb9-11ea-9bb6-9b72d61afcbe.png">
+<img width="1030" height="464" alt="all_tests_passing" src="https://user-images.githubusercontent.com/21226482/80896935-46082a00-8cb9-11ea-9bb6-9b72d61afcbe.png">
 <br><br>
 All these things should help better prepare us for final deployment.
 <br><br>
@@ -38,11 +38,11 @@ We did try one implementation strategy of web sockets using the
 
 [socket.io](https://socket.io) library. Unfortunately, that implementation did not work, and in the essence of time, the workarounds were found for the refresh issues. Web sockets are definitely useful — but currently we have another approach. We are retrieving data from MongoDB Cloud — using an entirely different approach with embedded js in our [EJS](https://ejs.co) views. But at least we tried out using web sockets and have made a successful connection from the backend to the frontend:
 <br><br>
-<img width="431" alt="socket_connected" src="https://user-images.githubusercontent.com/21226482/80897029-42c16e00-8cba-11ea-9aa7-bd1088aadaa1.png">
+<img width="1724" height="564" alt="socket_connected" src="https://user-images.githubusercontent.com/21226482/80897029-42c16e00-8cba-11ea-9aa7-bd1088aadaa1.png">
 <br><br>
 We've finally added a license to our repository, to provide rights to all for open source use, in accordance with MIT license guidelines:
 <br><br>
-<img width="701" alt="License" src="https://user-images.githubusercontent.com/21226482/80897065-b6637b00-8cba-11ea-8fca-4f27dbb12ae6.png">
+<img width="1402" height="618" alt="License" src="https://user-images.githubusercontent.com/21226482/80897065-b6637b00-8cba-11ea-8fca-4f27dbb12ae6.png">
 
 ___
 
