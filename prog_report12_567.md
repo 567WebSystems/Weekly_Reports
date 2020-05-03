@@ -44,12 +44,12 @@ We've made sure all our functions are passing tests:
 <br>
 <br>
 All these things should help better prepare us for final deployment.
-
-
-
-___
-
-## What we're doing:
+<br>
+<br>
+We tried one implementation of web sockets using the socket.io library. Unfortunately that implementation did not work and then the workarounds were found for the refresh issues. Web sockets are definitely useful — but currently we have another approach. We are retrieving data from MongoDB cloud — using an entirely different approach with embedded js in our ejs views. But at least we tried out using web sockets and have made a successful connection from the backend to the frontend:
+<br>
+<br>
+<img width="431" alt="socket_connected" src="https://user-images.githubusercontent.com/21226482/80897029-42c16e00-8cba-11ea-9aa7-bd1088aadaa1.png">
 
 
 ___
