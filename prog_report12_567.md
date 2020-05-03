@@ -50,7 +50,12 @@ We tried one implementation of web sockets using the socket.io library. Unfortun
 <br>
 <br>
 <img width="431" alt="socket_connected" src="https://user-images.githubusercontent.com/21226482/80897029-42c16e00-8cba-11ea-9aa7-bd1088aadaa1.png">
-
+<br>
+<br>
+We've finally added a license to our repository, to provide rights to all for open source use, according to the MIT license guidelines:
+<br>
+<br>
+<img width="701" alt="License" src="https://user-images.githubusercontent.com/21226482/80897065-b6637b00-8cba-11ea-8fca-4f27dbb12ae6.png">
 
 ___
 
