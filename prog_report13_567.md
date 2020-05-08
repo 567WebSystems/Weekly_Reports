@@ -41,3 +41,35 @@ ___
 
 ___
 
+* ### **Deployed application on Herokuapp**
+
+    Configured heroku to connect with our github repo. Trun on the automatic deplys settings.
+
+    <img width="1304" alt="Screen Shot 2020-05-07 at 9 02 23 PM" src="https://user-images.githubusercontent.com/54300222/81362284-189af200-90a6-11ea-9434-cfb865d26a78.png">
+
+    Here is the last few activites of automatic deployments
+
+    <img width="648" alt="Screen Shot 2020-05-07 at 9 01 54 PM" src="https://user-images.githubusercontent.com/54300222/81362367-53048f00-90a6-11ea-878a-d51d0e995a6e.png">
+
+___
+
+* ### **Integrated pm2 Monitoring to our web system**
+
+    Setup and install the pm2 on heroku as well as local machine to catch the metrics from both.
+
+    Here is the ouput of the console on Heroku App
+
+    <img width="616" alt="Screen Shot 2020-05-07 at 9 07 02 PM" src="https://user-images.githubusercontent.com/54300222/81362548-babada00-90a6-11ea-9928-08e0a7229bff.png">
+
+    This is the output from the local machine
+
+    <img width="983" alt="Screen Shot 2020-05-07 at 9 09 59 PM" src="https://user-images.githubusercontent.com/54300222/81362779-43d21100-90a7-11ea-973e-7ca25e573511.png">
+
+    PM2 Dashboard
+
+    <img width="1429" alt="Screen Shot 2020-05-07 at 9 12 04 PM" src="https://user-images.githubusercontent.com/54300222/81362830-6b28de00-90a7-11ea-8655-93650b37ad05.png">
+
+    PM2 Realtime Logs which it catches from the application
+
+    <img width="996" alt="Screen Shot 2020-05-07 at 9 15 01 PM" src="https://user-images.githubusercontent.com/54300222/81363016-dbcffa80-90a7-11ea-8786-8c254362b70b.png">
+
