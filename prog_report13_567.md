@@ -26,7 +26,7 @@ ___
 ___
 
 * ### **Integrated Travis CI**
-    
+
     Cofigured the travis so that it test the brach brach before it is merged to master.
 
     <img width="808" alt="Screen Shot 2020-05-07 at 1 37 23 AM" src="https://user-images.githubusercontent.com/54300222/81361662-9eb63900-90a4-11ea-9c7d-7846f6fa8cd9.png">
@@ -87,13 +87,30 @@ ___
 
 ___
 
+* ### **Ensured Live Site Works w/o JS or CSS**
+
+### Homepage:
+<img width="868" alt="no_css_js1" src="https://user-images.githubusercontent.com/21226482/81367973-42f3ac00-90b4-11ea-99a8-5f38c4b7a62d.png">
+
+### Menu:
+
+<img width="868" alt="no_css_js2" src="https://user-images.githubusercontent.com/21226482/81368025-628ad480-90b4-11ea-80ae-d0660cb7fc3c.png">
+
+### Appointment List:
+
+<img width="849" alt="no_css_js3" src="https://user-images.githubusercontent.com/21226482/81368061-79312b80-90b4-11ea-9f15-ca9da8b72681.png">
+
+
+___
+
+
 * ### **API Documentation Link**
-    
+
     https://567websystems.github.io/project-4-release/
 
 
 * ### **Live Web Application System Link**
-    
+
     https://wsi-calendar.herokuapp.com
 
 * ### **GitHub Repository Link**
