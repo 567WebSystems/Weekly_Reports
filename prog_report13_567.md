@@ -42,7 +42,8 @@ ___
 ___
 
 * ### **Deployed application on Herokuapp**
-
+    <br>
+    <img width="838" alt="app deployed" src="https://user-images.githubusercontent.com/21226482/81368290-07a5ad00-90b5-11ea-9773-c4e1992fa8c1.png"><br><br>
     Configured heroku to connect with our github repo. Trun on the automatic deplys settings.
 
     <img width="1304" alt="Screen Shot 2020-05-07 at 9 02 23 PM" src="https://user-images.githubusercontent.com/54300222/81362284-189af200-90a6-11ea-9434-cfb865d26a78.png">
