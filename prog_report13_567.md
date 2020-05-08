@@ -73,3 +73,14 @@ ___
 
     <img width="996" alt="Screen Shot 2020-05-07 at 9 15 01 PM" src="https://user-images.githubusercontent.com/54300222/81363016-dbcffa80-90a7-11ea-8786-8c254362b70b.png">
 
+___
+
+* ### **Made appointment form more attractive and responsive using pure css and HTML**
+
+    <img width="455" alt="Screen Shot 2020-05-07 at 9 18 08 PM" src="https://user-images.githubusercontent.com/54300222/81363169-4bde8080-90a8-11ea-9164-2bb27eb9ee22.png">
+
+___
+
+* ### **Added responsive footer in web application**
+
+    <img width="1439" alt="Screen Shot 2020-05-07 at 9 17 36 PM" src="https://user-images.githubusercontent.com/54300222/81363171-4c771700-90a8-11ea-9448-33b7245937ec.png">
