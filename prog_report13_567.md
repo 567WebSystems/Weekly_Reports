@@ -51,7 +51,7 @@ ___
 
     Creating our custom url by passing special parameter:
 
-    <img width="424" alt="wsi-calendar" src="https://user-images.githubusercontent.com/21226482/81368651-e6918c00-90b5-11ea-822d-a0654d2ff4d9.png"><br>
+    <img width="848" alt="wsi-calendar" src="https://user-images.githubusercontent.com/21226482/81368651-e6918c00-90b5-11ea-822d-a0654d2ff4d9.png"><br>
 
     <img width="1304" alt="Screen Shot 2020-05-07 at 9 02 23 PM" src="https://user-images.githubusercontent.com/54300222/81362284-189af200-90a6-11ea-9434-cfb865d26a78.png">
 
