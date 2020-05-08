@@ -27,6 +27,8 @@ ___
 
 * ### **Integrated Travis CI**
 
+  <img width="748" alt="travis-ci2" src="https://user-images.githubusercontent.com/21226482/81368531-95819800-90b5-11ea-953a-a4b0938abf6c.png"><br>
+
     Cofigured the travis so that it test the brach brach before it is merged to master.
 
     <img width="808" alt="Screen Shot 2020-05-07 at 1 37 23 AM" src="https://user-images.githubusercontent.com/54300222/81361662-9eb63900-90a4-11ea-9c7d-7846f6fa8cd9.png">
